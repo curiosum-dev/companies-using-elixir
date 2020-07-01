@@ -1,2 +1,10 @@
-# companies-using-elixir
-A companion repository to our article at Curiosum: https://curiosum.dev/blog/5-top-tier-companies-that-use-Elixir
+## Top companies using Elixir
+
+- Spotify
+- Discord
+- Pepsi Co
+- Square Enix
+
+## Top companies using Erlang
+
+- WhatsApp
